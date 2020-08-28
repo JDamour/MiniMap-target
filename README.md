@@ -17,3 +17,4 @@ No coding needed and options for customisation.
 4. Add MiniMapComponent script from Assets/MiniMap/_Scripts to the gameobjects/prefabs, that you want to show on minimap.
 
 # Thanks :) : 
+https://assetstore.unity.com/packages/3d/characters/dragndrop-minimap-radar-91675
